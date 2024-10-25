@@ -1,3 +1,3 @@
-## quiz_game
+## Quiz game
 
-This is a game that returns positive and negative answers. The game shows the player's score at the end.
+This game returns positive and negative answers and shows the player's score at the end.
